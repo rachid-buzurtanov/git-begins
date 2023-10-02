@@ -1,0 +1,5 @@
+commande pour creé le clone git : git clone git@github.com:"Votre lien SSH de depot"
+Les 3 commandes de  push
+git add
+git commit -m
+git push
